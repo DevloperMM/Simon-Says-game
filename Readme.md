@@ -1,8 +1,13 @@
 ## Hey All
 
-#### This project is just an UI/UX clone of spotify which was built while i was learning HTML and CSS.
+#### I have created a project i.e. Simon-Says Game which tests one's power of memorizing at this link - https://devlopermm.github.io/Spotify-Clone/
 
-#### The functionality alongwith backend part will be added in future to make it an exact clone or something more better in future.
+Note: Browser can ask you for some security things, you can just allow for now (if asked).
 
-Signing off from my side!
-Have a good day!
+#### This project may not be much appealing to you as it uses very basic HTML, CSS, Javascript but I learnt a lot while building it.
+
+#### I am currently working on some good projects and will deploy them when feels them to be good enough.
+
+###### Have a good day!
+
+https://devlopermm.github.io/Spotify-Clone/
