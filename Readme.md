@@ -1,6 +1,6 @@
 ## Hey All
 
-#### I have created a project i.e. Simon-Says Game which tests one's power of memorizing at this link - https://devlopermm.github.io/Spotify-Clone/
+#### I have created a project i.e. Simon-Says Game which tests one's power of memorizing at this link - https://devlopermm.github.io/SImon-Says-game/
 
 Note: Browser can ask you for some security things, you can just allow for now (if asked).
 
@@ -9,5 +9,3 @@ Note: Browser can ask you for some security things, you can just allow for now (
 #### I am currently working on some good projects and will deploy them when feels them to be good enough.
 
 ###### Have a good day!
-
-https://devlopermm.github.io/Spotify-Clone/
