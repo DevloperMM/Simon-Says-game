@@ -1,6 +1,6 @@
 ## Hey All
 
-#### I have created a project i.e. Simon-Says Game which tests one's power of memorizing at this link - https://devlopermm.github.io/SImon-Says-game/
+#### I have created a project i.e. Simon-Says Game which tests one's power of memorizing at this link - https://devlopermm.github.io/Simon-Says-game/
 
 Note: Browser can ask you for some security things, you can just allow for now (if asked).
 
